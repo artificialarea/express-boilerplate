@@ -6,10 +6,10 @@ This is a boilerplate project used for starting new projects, per [Thinkful's in
 
 Complete the following steps to start a new project (NEW-PROJECT-NAME):
 
-1. Clone this repository to your local machine and change directory `git clone BOILERPLATE-URL NEW-PROJECTS-NAME && cd $_`
-2. Make a fresh start of the git history for this project with `rm -rf .git && git init`... then `git remote -v` to confirm
-3. Install the node dependencies `npm install`
-4. Move the example Environment file to `.env` that will be ignored by git and read by the express server `mv example.env .env`
+1. `git clone BOILERPLATE-URL NEW-PROJECTS-NAME && cd $_` to clone this repository to your local machine and change directory. 
+2. `rm -rf .git && git init` to make a fresh start of the git history for this project with. Then `git remote -v` to confirm.
+3. `npm install` to install all node dependencies 
+4. `mv example.env .env` to move/rename the `example.env` Environment file to `.env` that will be ignored by git and read by the express server. 
 5. Edit the contents of the `package.json` to use NEW-PROJECT-NAME instead of `"name": "express-boilerplate",`
 
 ## Scripts
