@@ -1,6 +1,6 @@
 # Express Boilerplate!
 
-This is a boilerplate project used for starting new projects, per [Thinkful's instructions](https://courses.thinkful.com/node-postgres-v1/checkpoint/8).
+This is a boilerplate project used for starting new projects, per instructions in [Thinkful Checkpoint 8](https://courses.thinkful.com/node-postgres-v1/checkpoint/8),  [Thinkful Checkpoint 15](https://courses.thinkful.com/node-postgres-v1/checkpoint/15), [Thinkful Checkpoint 16](https://courses.thinkful.com/node-postgres-v1/checkpoint/16).
 
 ## Set up
 
